@@ -1,0 +1,17 @@
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\XUnitTestDapper.deps.json
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\XUnitTestDapper.runtimeconfig.json
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\XUnitTestDapper.runtimeconfig.dev.json
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\XUnitTestDapper.dll
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.csprojAssemblyReference.cache
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.csproj.CoreCompileInputs.cache
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.AssemblyInfoInputs.cache
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.AssemblyInfo.cs
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\TesteDapper.dll
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\XUnitTestDapper.pdb
+C:\projetos\tests\TesteDapper\XUnitTestDapper\bin\Debug\netcoreapp2.2\TesteDapper.pdb
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.csproj.CopyComplete
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.dll
+C:\projetos\tests\TesteDapper\XUnitTestDapper\obj\Debug\netcoreapp2.2\XUnitTestDapper.pdb

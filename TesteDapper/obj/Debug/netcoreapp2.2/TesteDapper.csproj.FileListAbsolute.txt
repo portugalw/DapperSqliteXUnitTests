@@ -1,0 +1,11 @@
+C:\projetos\tests\TesteDapper\TesteDapper\bin\Debug\netcoreapp2.2\TesteDapper.deps.json
+C:\projetos\tests\TesteDapper\TesteDapper\bin\Debug\netcoreapp2.2\TesteDapper.runtimeconfig.json
+C:\projetos\tests\TesteDapper\TesteDapper\bin\Debug\netcoreapp2.2\TesteDapper.runtimeconfig.dev.json
+C:\projetos\tests\TesteDapper\TesteDapper\bin\Debug\netcoreapp2.2\TesteDapper.dll
+C:\projetos\tests\TesteDapper\TesteDapper\obj\Debug\netcoreapp2.2\TesteDapper.csprojAssemblyReference.cache
+C:\projetos\tests\TesteDapper\TesteDapper\obj\Debug\netcoreapp2.2\TesteDapper.csproj.CoreCompileInputs.cache
+C:\projetos\tests\TesteDapper\TesteDapper\obj\Debug\netcoreapp2.2\TesteDapper.AssemblyInfoInputs.cache
+C:\projetos\tests\TesteDapper\TesteDapper\obj\Debug\netcoreapp2.2\TesteDapper.AssemblyInfo.cs
+C:\projetos\tests\TesteDapper\TesteDapper\bin\Debug\netcoreapp2.2\TesteDapper.pdb
+C:\projetos\tests\TesteDapper\TesteDapper\obj\Debug\netcoreapp2.2\TesteDapper.dll
+C:\projetos\tests\TesteDapper\TesteDapper\obj\Debug\netcoreapp2.2\TesteDapper.pdb
